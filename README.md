@@ -6,10 +6,10 @@
 </a>
 
 <p>
-  <a href="https://vanneberg.co.za"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-site.svg"><img alt="Visit vanneberg.co.za" src="assets/light/btn-site.svg" height="44"></picture></a>
-  <a href="https://vanneberg.co.za/cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-cv.svg"><img alt="View my CV" src="assets/light/btn-cv.svg" height="44"></picture></a>
-  <a href="https://www.linkedin.com/in/jacques-vdberg/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg"><img alt="LinkedIn" src="assets/light/btn-linkedin.svg" height="44"></picture></a>
-  <a href="mailto:jacques@visionlink.co.za"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-email.svg"><img alt="Email me" src="assets/light/btn-email.svg" height="44"></picture></a>
+  <a href="https://vanneberg.co.za"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-site.svg"><img alt="Visit vanneberg.co.za" src="assets/light/btn-site.svg" height="40"></picture></a>
+  <a href="https://vanneberg.co.za/cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-cv.svg"><img alt="View my CV" src="assets/light/btn-cv.svg" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/jacques-vdberg/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg"><img alt="LinkedIn" src="assets/light/btn-linkedin.svg" height="40"></picture></a>
+  <a href="mailto:jacques@visionlink.co.za"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-email.svg"><img alt="Email me" src="assets/light/btn-email.svg" height="40"></picture></a>
 </p>
 
 I'm a software engineer at **Stanchion Payment Solutions**, where I work on payment and switching systems with Java and Postilion and lead development on our Software Platform. I'm also co-founder and head developer of **VisionLink Technologies**, building NFC digital business cards and the software behind them.
